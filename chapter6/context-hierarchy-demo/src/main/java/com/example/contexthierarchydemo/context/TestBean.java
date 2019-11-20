@@ -15,6 +15,6 @@ public class TestBean {
     private String context;
 
     public void hello() {
-        log.info("hello {}" + context);
+        log.info("hello:{}",context);
     }
 }
