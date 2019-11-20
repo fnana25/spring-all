@@ -12,5 +12,6 @@
         <constructor-arg name="context" value="Bar" />
     </bean>
 
+    <!--    定义在子容器时父容器中的bean不能增强-->
     <!--<bean id="fooAspect" class="geektime.spring.web.foo.FooAspect" />-->
 </beans>
