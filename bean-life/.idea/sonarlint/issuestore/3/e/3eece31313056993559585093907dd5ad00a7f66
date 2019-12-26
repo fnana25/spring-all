@@ -1,0 +1,22 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ä¹Â•8–¨ş¯ó-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(½³½É8¢Ë°ó-
+Psquid:S1068"/Remove this unused "beanFactory" private field.(–Üéûùÿÿÿÿ8Ÿç¯ó-
+{squid:S1450"ZRemove the "beanFactory" field and declare it as a local variable in the relevant methods.(–Üéûùÿÿÿÿ8­îê¯ó-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘€Í‹ÿÿÿÿÿ8—‘‰°ó-
+Fsquid:S3457"%String contains no format specifiers.(…Ä·¹şÿÿÿÿ8İĞö¯ó-
+©%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(ú±œ8˜Ûã¯ó-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(°ÿ¹§øÿÿÿÿ8¢âô¯ó-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(…Ä·¹şÿÿÿÿ8İĞö¯ó-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒİˆÿÿÿÿÿ8¤åµ°ó-
+Ssquid:S1135"2Complete the task associated to this TODO comment.(Õñ¢„ûÿÿÿÿ8Ô°ã¯ó-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚âªùÿÿÿÿ8¶ˆ°ó-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾Ãéâúÿÿÿÿ8¤åµ°ó-

@@ -1,0 +1,14 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë¿ğŸûÿÿÿÿ8·†°ó-
+©%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(çÜ³”8‘¤°ó-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(€›í¿ûÿÿÿÿ8·†°ó-
+¨%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(ÑÆü#8‘¤°ó-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ñí‰¾úÿÿÿÿ8·†°ó-
+Lsquid:S1135"2Complete the task associated to this TODO comment.(Õñ¢„ûÿÿÿÿ
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚’M8·†°ó-
+|squid:CallToDeprecatedMethod"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÔóÿÂıÿÿÿÿ8ê°ó-
+©%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(ˆ’€·8‘¤°ó-
