@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e59f7b9b-458b-4a8a-b38e-62b1eae3147b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/controller/CoffeeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/controller/CoffeeOrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/controller/PerformanceInteceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/controller/request/NewCoffeeRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/controller/request/NewOrderRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/model/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/model/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/model/CoffeeOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/model/OrderState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/repository/CoffeeOrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/repository/CoffeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/service/CoffeeOrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/service/CoffeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/support/CoffeeIndicator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/support/MoneyDeserializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/support/MoneyFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/support/MoneySerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/coffee.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
-    </list>
+    <list default="true" id="e59f7b9b-458b-4a8a-b38e-62b1eae3147b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,8 +57,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/ZkWaiterServiceApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="92">
+              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+              <folding>
+                <element signature="e#885#886#0" expanded="true" />
+                <element signature="e#921#922#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,7 +136,6 @@
         <option value="$PROJECT_DIR$/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/model/CoffeeOrder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/ZkWaiterServiceApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/CustomerRunner.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/ZkCustomerServiceApplication.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -166,6 +146,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/support/CoffeeIndicator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/controller/CoffeeController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/controller/CoffeeOrderController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/ZkWaiterServiceApplication.java" />
       </list>
     </option>
   </component>
@@ -368,7 +349,7 @@
       <updated>1579157171856</updated>
       <workItem from="1579157174984" duration="1747000" />
       <workItem from="1579160675962" duration="33000" />
-      <workItem from="1579160812082" duration="980000" />
+      <workItem from="1579160812082" duration="1116000" />
     </task>
     <task id="LOCAL-00001" summary="zk-discoveryClient">
       <created>1579160413810</created>
@@ -381,7 +362,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2760000" />
+    <option name="totallyTimeSpent" value="2896000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -587,17 +568,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/zkwaiterservice/ZkWaiterServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="92">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding>
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
