@@ -20,10 +20,10 @@ import java.util.concurrent.TimeUnit;
 @Slf4j
 @EnableDiscoveryClient
 @SpringBootApplication
-public class ZkWaiterServiceApplication {
+public class ZkCustomerServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ZkWaiterServiceApplication.class, args);
+		SpringApplication.run(ZkCustomerServiceApplication.class, args);
 	}
 	@Bean
 	public HttpComponentsClientHttpRequestFactory requestFactory() {

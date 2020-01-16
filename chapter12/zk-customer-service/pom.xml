@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>zk-waiter-service</artifactId>
+	<artifactId>zk-customer-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>zk-waiter-service</name>
+	<name>zk-customer-service</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
